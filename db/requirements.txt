@@ -1,0 +1,10 @@
+onnxruntime 
+insightface 
+faiss-cpu 
+numpy 
+opencv-python
+pillow 
+fastapi
+uvicorn
+pytest-shutil
+python-multipart

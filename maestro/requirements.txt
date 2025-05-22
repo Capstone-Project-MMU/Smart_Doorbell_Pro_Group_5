@@ -1,0 +1,8 @@
+
+pytest
+httpx
+opencv-python 
+requests
+python-multipart
+
+
